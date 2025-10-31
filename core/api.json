@@ -1,0 +1,7 @@
+{
+    "app_name": "MaxFire",
+    "sub_url": "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
+    "xray": "https://github.com/XTLS/Xray-core",
+    "tun2socks": "https://github.com/xjasonlyu/tun2socks",
+    "x2j": "https://github.com/code3-dev/x2j"
+}
